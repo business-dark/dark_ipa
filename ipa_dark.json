@@ -1,0 +1,46 @@
+{
+    "version": "1.1.2",
+    "sourceName": "ipa Store",      
+    "sourceAuthor": "ipa_dark",        
+    "sourceLinkTitle": "@ipa_dark",       
+    "sourceLinkUrl": "https://t.me/ipa_dark",       
+    "sourceImage": "http://xxx.com/src.png",   
+    "sourceUpdateTime": "2024-01-01T13:00:00+0800", 
+    "sourceDescription": "🔍 Введите хэштег в поиск для поиска категории:\n💬 #Social - Соц. Сети и Мессенджеры;\n🎵 #Music - Музыка | 🎬 #Video - Видео и Фильмы(ТВ);\n📸 #Design - Редакторы, Камеры и Шаблоны;\n🌐 #Network - VPN, Сети, Расширения;\n👨‍💻#Office - Офис, Заметки и Календари;\n❤️ #Life - Спорт и Здоровье | 🐣 #Kids - Детям \n📚 #Study - Учеба, Навыки и Книги;\n🧳 #Travel - Карты, Погода и Авто | 🕹 #Games - Игры;\n💰 #Money - Банки и Финансы | 📱 #Other - Другие приложения.",
+    "appCategories": ["\"Скачать\" -> \"Установить\" -> \"Подписать\" -> \"Установить\""],
+    "appRepositories": [
+        {
+            "lock": false,
+            "hide": false,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2024-05-01T08:00:00+0800",
+            "appName": "",
+            "appVersion": "1.0",
+            "appPlist": "https://www.lanzous.com/i7rn4hi",
+            "appDescription": ""
+        },
+		{
+            "lock": false,
+            "hide": false,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2024-05-01T08:00:00+0800",
+            "appName": "",
+            "appVersion": "1.0",
+            "appPlist": "https://www.lanzous.com/i7rn4hi",
+            "appDescription": ""
+        },
+		{
+            "lock": false,
+            "hide": false,
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2024-05-01T08:00:00+0800",
+            "appName": "",
+            "appVersion": "1.0",
+            "appPlist": "https://www.lanzous.com/i7rn4hi",
+            "appDescription": ""
+        }
+    ]
+}
