@@ -6,21 +6,7 @@
     "sourceAuthor" : "ipa_dark",
     "sourceLinkUrl": "https://t.me/ipa_dark",
     "sourceLinkTitle" : "@ipa_dark",
-    "appCategories": [
-        "Скачать -> Установить -> Подписать -> Установить",
-        "#Social",
-        "Music",
-        "Video",
-        "#Design",
-        "#Network",
-        "#Office",
-        "#Life",
-        "#Kids",
-        "#Study",
-        "#Games",
-        "#Money",
-        "#Other"
-    ],
+    "appCategories":["\"Скачать\" -> \"Установить\" -> \"Подписать\" -> \"Установить\""],
     "appRepositories": [
   {
     "appCateIndex" : 2,
