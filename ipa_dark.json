@@ -8,7 +8,7 @@
     "sourceLinkTitle" : "@ipa_dark",
     "appCategories": [
         "\"Скачать\" -> \"Установить\" -> \"Подписать\" -> \"Установить\"",
-        "Social",
+        "#Social",
         "Music",
         "Video",
         "#Design",
