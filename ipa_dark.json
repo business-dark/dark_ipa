@@ -7,10 +7,19 @@
     "sourceLinkUrl": "https://t.me/ipa_dark",
     "sourceLinkTitle" : "@ipa_dark",
     "appCategories": [
-        "Apps",
-        "Games",
-        "Tools",
-        "Music"
+        "\"Скачать\" -> \"Установить\" -> \"Подписать\" -> \"Установить\"",
+        "Social",
+        "Music",
+        "Video",
+        "#Design",
+        "#Network",
+        "#Office",
+        "#Life",
+        "#Kids",
+        "#Study",
+        "#Games",
+        "#Money",
+        "#Other"
     ],
     "appRepositories": [
   {
