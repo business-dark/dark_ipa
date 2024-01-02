@@ -6,11 +6,24 @@
     "sourceAuthor" : "ipa_dark",
     "sourceLinkUrl": "https://t.me/ipa_dark",
     "sourceLinkTitle" : "@ipa_dark",
-    "appCategories":["\"Скачать\" -> \"Установить\" -> \"Подписать\" -> \"Установить\""],
-    "appCategories: [#money]"
+    "appCategories": [
+        "Скачать -> Установить -> Подписать -> Установить",
+        "#Social",
+        "Music",
+        "Video",
+        "#Design",
+        "#Network",
+        "#Office",
+        "#Life",
+        "#Kids",
+        "#Study",
+        "#Games",
+        "#Money",
+        "#Other"
+    ],
     "appRepositories": [
   {
-    "appCateIndex" : 1,
+    "appCateIndex" : 2,
     "appDescription" : "Отличный VPN с активированным премиумом",
     "appName" : "Star VPN | Hack",
     "appVersion" : "3.5.0",
