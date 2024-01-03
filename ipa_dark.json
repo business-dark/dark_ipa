@@ -5,7 +5,8 @@
     "sourceAuthor" : "ipa_dark",
     "sourceLinkUrl": "https://t.me/ipa_dark",
     "sourceLinkTitle" : "@ipa_dark",
-    "appCategories":["Скачать -> Установить -> Подписать -> Установить",
+    "appCategories":[
+        "Скачать -> Установить -> Подписать -> Установить",
         "#Social", 
         "#Music", 
         "#Video", 
@@ -21,7 +22,7 @@
     ],
     "appRepositories": [
   {
-    "appCateIndex" : #Social,
+    "appCateIndex" : 0,
     "appDescription" : "Редактор фото и видео с большим количеством функций.",
     "appName" : "InShot Pro",
     "appVersion" : "1.67.1",
@@ -37,7 +38,7 @@
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/InstaRocket/InstaRocket%20%28%40ipa_dark%29.ipa",
     "appDescription" : "Приложение instagram с дополнительными функциями\n▎ Скачивание фото, видео и сторис\n▎ Без рекламы\n▎ Анонимный просмотр сторис\n▎ Отключение отчётов о прочтении смс и скриншотах\n▎ Расширение для открытия ссылок в приложении (активируйте в Safari - Управление расширениями)",
-    "appCateIndex" : #Social,
+    "appCateIndex" : 0,
     "appName" : "Instagram Rocket PRO"
   },
   {
@@ -48,7 +49,7 @@
     "appVersion" : "23.6.4",
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/Picsart/Picsart23.6.4%20%28%40ipa_dark%29.ipa",
-    "appCateIndex" : #Social
+    "appCateIndex" : 0
   },
   {
     "appType" : "SELF_SIGN",
@@ -56,7 +57,7 @@
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/sbol/SBOL_14.11.0.ipa",
     "appVersion" : "14.11.0",
     "appDescription" : "Обновлённое приложение СберБанка, которое было добавлено под видом другого приложения. Удаленно с App Store.",
-    "appCateIndex" : 12,
+    "appCateIndex" : 11,
     "appImage" : "https://ipa-dark.ru/vipad/ico/sbol.png",
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
   },  {
