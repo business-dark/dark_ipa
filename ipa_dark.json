@@ -8,19 +8,19 @@
     "appCategories":["\"Скачать\" -> \"Установить\" -> \"Подписать\" -> \"Установить\""],
     "appRepositories": [
   {
-    "appCateIndex" : 2,
+    "appCateIndex" : 3,
     "appDescription" : "Редактор фото и видео с большим количеством функций.",
     "appName" : "InShot Pro",
     "appVersion" : "1.67.1",
     "appImage" : "https://ipa-dark.ru/vipad/ico/inshot.png",
-    "appUpdateTime" : "2023-04-23T9:30:00+0300",
+    "appUpdateTime" : "2024-01-04T09:30:00+0300",
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/InShot_Pro/InShot_Pro%201.67.1%20%28%40ipa_dark%29.ipa"
   },
   {
     "appVersion" : "1.8",
     "appImage" : "https://ipa-dark.ru/vipad/ico/instagram.png",
-    "appUpdateTime" : "2023-04-23T9:30:00+0300",
+    "appUpdateTime" : "2024-01-04T09:30:00+0300",
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/InstaRocket/InstaRocket%20%28%40ipa_dark%29.ipa",
     "appDescription" : "Приложение instagram с дополнительными функциями\n▎ Скачивание фото, видео и сторис\n▎ Без рекламы\n▎ Анонимный просмотр сторис\n▎ Отключение отчётов о прочтении смс и скриншотах (direct)\n▎ Расширение для открытия ссылок в приложении (активируйте в Safari - Управление расширениями)",
@@ -28,102 +28,33 @@
     "appName" : "Instagram Rocket PRO"
   },
   {
-    "appImage" : "https:\/\/play-lh.googleusercontent.com\/CzAp6SO89m3OsU1RzMHmf9m4EN5q34hShnH0O0N0S0gGryh5EOuTuYSAeiBQqcgiDqwj",
-    "appUpdateTime" : "2023-04-23T9:30:00+0300",
-    "appDescription" : "GTA 3 со встроенным русификатором!",
-    "appName" : "GTA III",
-    "appVersion" : "1.5",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/Picsart.png",
+    "appUpdateTime" : "2024-01-04T09:30:00+0300",
+    "appDescription" : "Универсальный редактор фото и видео",
+    "appName" : "PicsArt | Gold",
+    "appVersion" : "23.6.4",
     "appType" : "SELF_SIGN",
-    "appPackage" : "https:\/\/repo.semyonsemenov.ru\/s\/GTD8FpNGQW4nges\/download\/gta3.ipa",
-    "appCateIndex" : 1
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/Picsart/Picsart23.6.4%20%28%40ipa_dark%29.ipa",
+    "appCateIndex" : 2
   },
   {
     "appType" : "SELF_SIGN",
-    "appName" : "GTA San Andreas",
-    "appPackage" : "https:\/\/repo.semyonsemenov.ru\/s\/PFdL3emoEfgiZoM\/download\/GTASA_v2.2.ipa",
-    "appVersion" : "2.2",
-    "appDescription" : "Одна из лучших игр человечества на ваше iOS устройство",
+    "appName" : "Сбербанк(Сбол) | SBOL",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/sbol/SBOL_14.11.0.ipa",
+    "appVersion" : "14.11.0",
+    "appDescription" : "Обновлённое приложение СберБанка, которое было добавлено под видом другого приложения. Удаленно с App Store.",
     "appCateIndex" : 1,
-    "appImage" : "https:\/\/graph.digiseller.ru\/img.ashx?id_d=3279631",
-    "appUpdateTime" : "2023-04-23T9:30:00+0300"
+    "appImage" : "https://ipa-dark.ru/vipad/ico/sbol.png",
+    "appUpdateTime" : "2024-01-04T09:30:00+0300",
   },  {
     "appCateIndex" : 2,
-    "appDescription" : "Отличный VPN с активированным премиумом",
-    "appName" : "Star VPN | Hack",
-    "appVersion" : "3.5.0",
-    "appImage" : "https:\/\/play-lh.googleusercontent.com\/2zGoNqdTK6blkWiQBA_S3OZS8Rr2J3MY2g32QeNVmGsAxdgN5_MJjGjfMhZjBrV7Vg=s75",
-    "appUpdateTime" : "2023-04-23T9:30:00+0300",
+    "appDescription" : "Приложение банка Тинькофф последней версии, которое было добавлено в App Store под видом другого приложения - DocStorage.",
+    "appName" : "Тинькофф Банк | Tinkoff",
+    "appVersion" : "6.22",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff.png",
+    "appUpdateTime" : "2024-01-04T09:30:00+0300",
     "appType" : "SELF_SIGN",
-    "appPackage" : "https:\/\/repo.semyonsemenov.ru\/s\/oCxr26c4bAAD4ja\/download\/Star%20VPN%203.5.0%20Premium.ipa"
-  },
-  {
-    "appVersion" : "1.8",
-    "appImage" : "https:\/\/www.digiseller.ru\/preview\/718863\/p1_2497551_d123ba29.png",
-    "appUpdateTime" : "2023-04-23T9:30:00+0300",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https:\/\/repo.semyonsemenov.ru\/s\/9mZ4fNkmMS3xEgN\/download\/gta3vc.ipa",
-    "appDescription" : "Добро пожаловать в Вайс-сити, город пороков",
-    "appCateIndex" : 1,
-    "appName" : "GTA Vice City"
-  },
-  {
-    "appImage" : "https:\/\/play-lh.googleusercontent.com\/CzAp6SO89m3OsU1RzMHmf9m4EN5q34hShnH0O0N0S0gGryh5EOuTuYSAeiBQqcgiDqwj",
-    "appUpdateTime" : "2023-04-23T9:30:00+0300",
-    "appDescription" : "GTA 3 со встроенным русификатором!",
-    "appName" : "GTA III",
-    "appVersion" : "1.5",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https:\/\/repo.semyonsemenov.ru\/s\/GTD8FpNGQW4nges\/download\/gta3.ipa",
-    "appCateIndex" : 1
-  },
-  {
-    "appType" : "SELF_SIGN",
-    "appName" : "GTA San Andreas",
-    "appPackage" : "https:\/\/repo.semyonsemenov.ru\/s\/PFdL3emoEfgiZoM\/download\/GTASA_v2.2.ipa",
-    "appVersion" : "2.2",
-    "appDescription" : "Одна из лучших игр человечества на ваше iOS устройство",
-    "appCateIndex" : 1,
-    "appImage" : "https:\/\/graph.digiseller.ru\/img.ashx?id_d=3279631",
-    "appUpdateTime" : "2023-04-23T9:30:00+0300"
-  },  {
-    "appCateIndex" : 2,
-    "appDescription" : "Отличный VPN с активированным премиумом",
-    "appName" : "Star VPN | Hack",
-    "appVersion" : "3.5.0",
-    "appImage" : "https:\/\/play-lh.googleusercontent.com\/2zGoNqdTK6blkWiQBA_S3OZS8Rr2J3MY2g32QeNVmGsAxdgN5_MJjGjfMhZjBrV7Vg=s75",
-    "appUpdateTime" : "2023-04-23T9:30:00+0300",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https:\/\/repo.semyonsemenov.ru\/s\/oCxr26c4bAAD4ja\/download\/Star%20VPN%203.5.0%20Premium.ipa"
-  },
-  {
-    "appVersion" : "1.8",
-    "appImage" : "https:\/\/www.digiseller.ru\/preview\/718863\/p1_2497551_d123ba29.png",
-    "appUpdateTime" : "2023-04-23T9:30:00+0300",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https:\/\/repo.semyonsemenov.ru\/s\/9mZ4fNkmMS3xEgN\/download\/gta3vc.ipa",
-    "appDescription" : "Добро пожаловать в Вайс-сити, город пороков",
-    "appCateIndex" : 1,
-    "appName" : "GTA Vice City"
-  },
-  {
-    "appImage" : "https:\/\/play-lh.googleusercontent.com\/CzAp6SO89m3OsU1RzMHmf9m4EN5q34hShnH0O0N0S0gGryh5EOuTuYSAeiBQqcgiDqwj",
-    "appUpdateTime" : "2023-04-23T9:30:00+0300",
-    "appDescription" : "GTA 3 со встроенным русификатором!",
-    "appName" : "GTA III",
-    "appVersion" : "1.5",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https:\/\/repo.semyonsemenov.ru\/s\/GTD8FpNGQW4nges\/download\/gta3.ipa",
-    "appCateIndex" : 1
-  },
-  {
-    "appType" : "SELF_SIGN",
-    "appName" : "GTA San Andreas",
-    "appPackage" : "https:\/\/repo.semyonsemenov.ru\/s\/PFdL3emoEfgiZoM\/download\/GTASA_v2.2.ipa",
-    "appVersion" : "2.2",
-    "appDescription" : "Одна из лучших игр человечества на ваше iOS устройство",
-    "appCateIndex" : 1,
-    "appImage" : "https:\/\/graph.digiseller.ru\/img.ashx?id_d=3279631",
-    "appUpdateTime" : "2023-04-23T9:30:00+0300"
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/Tinkoff/%D0%A2%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84_6.22%28docstorage%29.ipa"
   }
     ]
 }
