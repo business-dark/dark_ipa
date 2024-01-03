@@ -6,7 +6,10 @@
   "sourceAuthor": "ipa_dark",
   "sourceLinkUrl": "https://t.me/ipa_dark",
   "sourceLinkTitle": "@ipa_dark",
-  "appCategories": {
+  "appCategories":[
+  "Скачать -> Установить -> Подписать -> Установить"
+    ],
+  "appRepositories": {
     "Social": [
       {
         "appName": "Your Social App",
