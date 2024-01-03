@@ -21,7 +21,7 @@
     ],
     "appRepositories": [
   {
-    "appCateIndex" : 3,
+    "appCateIndex" : #Social,
     "appDescription" : "Редактор фото и видео с большим количеством функций.",
     "appName" : "InShot Pro",
     "appVersion" : "1.67.1",
@@ -37,7 +37,7 @@
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/InstaRocket/InstaRocket%20%28%40ipa_dark%29.ipa",
     "appDescription" : "Приложение instagram с дополнительными функциями\n▎ Скачивание фото, видео и сторис\n▎ Без рекламы\n▎ Анонимный просмотр сторис\n▎ Отключение отчётов о прочтении смс и скриншотах\n▎ Расширение для открытия ссылок в приложении (активируйте в Safari - Управление расширениями)",
-    "appCateIndex" : 1,
+    "appCateIndex" : #Social,
     "appName" : "Instagram Rocket PRO"
   },
   {
@@ -48,7 +48,7 @@
     "appVersion" : "23.6.4",
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/Picsart/Picsart23.6.4%20%28%40ipa_dark%29.ipa",
-    "appCateIndex" : 2
+    "appCateIndex" : #Social
   },
   {
     "appType" : "SELF_SIGN",
