@@ -9,23 +9,29 @@
     "appRepositories": [
   {
     "appCateIndex" : 2,
-    "appDescription" : "Отличный VPN с активированным премиумом",
-    "appName" : "Star VPN | Hack",
-    "appVersion" : "3.5.0",
-    "appImage" : "https:\/\/play-lh.googleusercontent.com\/2zGoNqdTK6blkWiQBA_S3OZS8Rr2J3MY2g32QeNVmGsAxdgN5_MJjGjfMhZjBrV7Vg=s75",
+    "appDescription" : "Редактор фото и видео с большим количеством функций.",
+    "appName" : "InShot Pro",
+    "appVersion" : "1.67.1",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/inshot.png",
     "appUpdateTime" : "2023-04-23T9:30:00+0300",
     "appType" : "SELF_SIGN",
-    "appPackage" : "https:\/\/repo.semyonsemenov.ru\/s\/oCxr26c4bAAD4ja\/download\/Star%20VPN%203.5.0%20Premium.ipa"
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/InShot_Pro/InShot_Pro%201.67.1%20%28%40ipa_dark%29.ipa"
   },
   {
     "appVersion" : "1.8",
-    "appImage" : "https:\/\/www.digiseller.ru\/preview\/718863\/p1_2497551_d123ba29.png",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/instagram.png",
     "appUpdateTime" : "2023-04-23T9:30:00+0300",
     "appType" : "SELF_SIGN",
-    "appPackage" : "https:\/\/repo.semyonsemenov.ru\/s\/9mZ4fNkmMS3xEgN\/download\/gta3vc.ipa",
-    "appDescription" : "Добро пожаловать в Вайс-сити, город пороков",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/InstaRocket/InstaRocket%20%28%40ipa_dark%29.ipa",
+    "appDescription" : "Приложение instagram с дополнительными функциями\n
+
+▎ Скачивание фото, видео и сторис\n
+▎ Без рекламы\n
+▎ Анонимный просмотр сторис\n
+▎ Отключение отчётов о прочтении смс и скриншотах (direct)\n
+▎ Расширение для открытия ссылок в приложении (активируйте в Safari - Управление расширениями)",\n
     "appCateIndex" : 1,
-    "appName" : "GTA Vice City"
+    "appName" : "Instagram Rocket PRO"
   },
   {
     "appImage" : "https:\/\/play-lh.googleusercontent.com\/CzAp6SO89m3OsU1RzMHmf9m4EN5q34hShnH0O0N0S0gGryh5EOuTuYSAeiBQqcgiDqwj",
