@@ -39,6 +39,7 @@
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/InstaRocket/InstaRocket%20%28%40ipa_dark%29.ipa",
     "appDescription" : "Приложение instagram с дополнительными функциями\n▎ Скачивание фото, видео и сторис\n▎ Без рекламы\n▎ Анонимный просмотр сторис\n▎ Отключение отчётов о прочтении смс и скриншотах\n▎ Расширение для открытия ссылок в приложении (активируйте в Safari - Управление расширениями)",
     "appCateIndex" : 0,
+    "apphashtag" : "#money",
     "appName" : "Instagram Rocket PRO"
   },
   {
@@ -48,6 +49,7 @@
     "appName" : "PicsArt | Gold",
     "appVersion" : "23.6.4",
     "appType" : "SELF_SIGN",
+    "apphashtag" : "money",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/Picsart/Picsart23.6.4%20%28%40ipa_dark%29.ipa",
     "appCateIndex" : 0
   },
