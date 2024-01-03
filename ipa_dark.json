@@ -62,7 +62,8 @@
     "appCateIndex" : 0,
     "appImage" : "https://ipa-dark.ru/vipad/ico/sbol.png",
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
-  },  {
+  },  
+  {
     "appCateIndex" : 11,
     "appDescription" : "Приложение банка Тинькофф последней версии, которое было добавлено в App Store под видом другого приложения - DocStorage.",
     "appName" : "Тинькофф Банк | Tinkoff",
@@ -73,5 +74,4 @@
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/Tinkoff/%D0%A2%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84_6.22%28docstorage%29.ipa"
   }
     ]
-  "searchResults": []
 }
