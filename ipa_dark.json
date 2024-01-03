@@ -5,7 +5,20 @@
     "sourceAuthor" : "ipa_dark",
     "sourceLinkUrl": "https://t.me/ipa_dark",
     "sourceLinkTitle" : "@ipa_dark",
-    "appCategories":["\"Скачать\" -> \"Установить\" -> \"Подписать\" -> \"Установить\""],
+    "appCategories":["\"Скачать\" -> \"Установить\" -> \"Подписать\" -> \"Установить\"",
+        "#Social", 
+        "#Music", 
+        "#Video", 
+        "#Design", 
+        "#Network", 
+        "#Office", 
+        "#Life", 
+        "#Kids", 
+        "#Study", 
+        "#Games", 
+        "#Money", 
+        "#Other" 
+    ],
     "appRepositories": [
   {
     "appCateIndex" : 3,
@@ -23,7 +36,7 @@
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/InstaRocket/InstaRocket%20%28%40ipa_dark%29.ipa",
-    "appDescription" : "Приложение instagram с дополнительными функциями\n▎ Скачивание фото, видео и сторис\n▎ Без рекламы\n▎ Анонимный просмотр сторис\n▎ Отключение отчётов о прочтении смс и скриншотах (direct)\n▎ Расширение для открытия ссылок в приложении (активируйте в Safari - Управление расширениями)",
+    "appDescription" : "Приложение instagram с дополнительными функциями\n▎ Скачивание фото, видео и сторис\n▎ Без рекламы\n▎ Анонимный просмотр сторис\n▎ Отключение отчётов о прочтении смс и скриншотах\n▎ Расширение для открытия ссылок в приложении (активируйте в Safari - Управление расширениями)",
     "appCateIndex" : 1,
     "appName" : "Instagram Rocket PRO"
   },
