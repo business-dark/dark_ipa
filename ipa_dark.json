@@ -110,7 +110,7 @@
     "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff-business.png",
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
     "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-business.ipa" #
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-business.ipa" 
   },
   {  
     "appCateIndex" : 0,
@@ -120,7 +120,7 @@
     "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff-invest.png",
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
     "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-invest.ipa" #
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-invest.ipa"
   },
   {  
     "appCateIndex" : 0,
