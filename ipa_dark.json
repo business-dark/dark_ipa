@@ -29,14 +29,14 @@
     "appImage" : "https://ipa-dark.ru/vipad/ico/inshot.png",
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
     "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/InShot_Pro/InShot_Pro%201.67.1%20%28%40ipa_dark%29.ipa"
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/InShot_Pro/InShot_Pro.ipa"
   },
   {
     "appVersion" : "312.0.1",
     "appImage" : "https://ipa-dark.ru/vipad/ico/instagram.png",
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
     "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/InstaRocket/InstaRocket%20%28%40ipa_dark%29.ipa",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/InstaRocket/InstaRocket.ipa",
     "appDescription" : "Приложение instagram с дополнительными функциями\n▎ Скачивание фото, видео и сторис\n▎ Без рекламы\n▎ Анонимный просмотр сторис\n▎ Отключение отчётов о прочтении смс и скриншотах\n▎ Расширение для открытия ссылок в приложении (активируйте в Safari - Управление расширениями)",
     "appCateIndex" : 0,
     "apphashtag" : "#money",
@@ -50,7 +50,7 @@
     "appVersion" : "23.6.4",
     "appType" : "SELF_SIGN",
     "apphashtag" : "money",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/Picsart/Picsart23.6.4%20%28%40ipa_dark%29.ipa",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/Picsart/Picsart.ipa",
     "appCateIndex" : 0
   },
   {
@@ -70,7 +70,7 @@
     "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff.png",
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
     "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/Tinkoff/%D0%A2%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84_6.22%28docstorage%29.ipa"
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/Tinkoff/docstorage.ipa"
   }
     ]
 }
