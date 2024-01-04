@@ -1,168 +1,166 @@
 {
-    "version" : "1.1.2",
-    "sourceName" : "ipa dark",
-    "sourceDescription": "🔍 Введите хэштег в поиск для поиска категории:\n💬 #Social - Соц. Сети и Мессенджеры\n🎵 #Music - Музыка | 🎬 #Video - Видео и Фильмы(ТВ)\n📸 #Design - Редакторы, Камеры и Шаблоны\n🌐 #Network - VPN, Сети, Расширения\n👨‍💻#Office - Офис, Заметки и Календари\n❤️ #Life - Спорт и Здоровье | 🐣 #Kids - Детям \n📚 #Study - Учеба, Навыки и Книги\n🧳 #Travel - Карты, Погода и Авто | 🕹 #Games - Игры\n💰 #Money - Банки и Финансы | 📱 #Other - Другое",    
-    "sourceImage" : "https://ipa-dark.ru/ipa_dark.png",
-    "sourceAuthor" : "ipa_dark",
+    "version": "1.1.2",
+    "sourceName": "ipa dark",
+    "sourceDescription": "🔍 Введите хэштег в поиск для поиска категории:\n💬 #Social - Соц. Сети и Мессенджеры\n🎵 #Music - Музыка | 🎬 #Video - Видео и Фильмы(ТВ)\n📸 #Design - Редакторы, Камеры и Шаблоны\n🌐 #Network - VPN, Сети, Расширения\n👨‍💻#Office - Офис, Заметки и Календари\n❤️ #Life - Спорт и Здоровье | 🐣 #Kids - Детям \n📚 #Study - Учеба, Навыки и Книги\n🧳 #Travel - Карты, Погода и Авто | 🕹 #Games - Игры\n💰 #Money - Банки и Финансы | 📱 #Other - Другое",
+    "sourceImage": "https://ipa-dark.ru/ipa_dark.png",
+    "sourceAuthor": "ipa_dark",
     "sourceLinkUrl": "https://t.me/ipa_dark",
-    "sourceLinkTitle" : "@ipa_dark",
-    "appCategories":[
+    "sourceLinkTitle": "@ipa_dark",
+    "appCategories": [
         "Скачать -> Установить -> Подписать -> Установить",
-        "#Social", 
-        "#Music", 
-        "#Video", 
-        "#Design", 
-        "#Network", 
-        "#Office", 
-        "#Life", 
-        "#Kids", 
-        "#Study", 
-        "#Games", 
-        "#Money", 
-        "#Other" 
+        "#Social",
+        "#Music",
+        "#Video",
+        "#Design",
+        "#Network",
+        "#Office",
+        "#Life",
+        "#Kids",
+        "#Study",
+        "#Games",
+        "#Money",
+        "#Other"
     ],
     "appRepositories": [
-  {
-    "appCateIndex" : 0,
-    "appDescription" : "Редактор фото и видео с большим количеством функций.",
-    "appName" : "InShot Pro\n| #Design",
-    "appVersion" : "1.67.1 | 157,5 МБ",
-    "appImage" : "https://ipa-dark.ru/vipad/ico/inshot.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/InShot_Pro/InShot_Pro.ipa"
-  },
-  {
-    "appImage" : "https://ipa-dark.ru/vipad/ico/Picsart.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
-    "appDescription" : "Универсальный редактор фото и видео",
-    "appName" : "PicsArt | Gold\n| #Design",
-    "appVersion" : "23.6.4 | 223,5 МБ",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/Picsart/Picsart.ipa",
-    "appCateIndex" : 0
-  },
-  {
-    "appVersion" : "7.38 | 2.0 | 231,5 MB",
-    "appImage" : "https://ipa-dark.ru/vipad/ico/vk.png",
-    "appUpdateTime" : "2024-01-04T17:00:00+0300",
-    "appType" : "SELF_SIGN", 
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/vk/reborn2.0.ipa",
-    "appDescription" : "Модифицированный клиент ВК\n\n▎ Без рекламы;\n▎ Снятие лимитов на музыку;\n▎ Отключение ограничений возрастного контента;\n▎ Замена вкладок таббара;\n▎ Защита паролем;\n Другие возможности. ",
-    "appCateIndex" : 0,
-    "appName" : "VK | Reborn\n| #Social",
-  },
-  {
-    "appVersion" : "312.0.1",
-    "appImage" : "https://ipa-dark.ru/vipad/ico/instagram.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/InstaRocket/InstaRocket.ipa",
-    "appDescription" : "Приложение instagram с дополнительными функциями\n\n▎ Скачивание фото, видео и сторис\n▎ Без рекламы\n▎ Анонимный просмотр сторис\n▎ Отключение отчётов о прочтении смс и скриншотах\n▎ Расширение для открытия ссылок в приложении (активируйте в Safari - Управление расширениями)",
-    "appCateIndex" : 0,
-    "appName" : "Instagram Rocket PRO\n| #Social",
-  },
-  {
-    "appType" : "SELF_SIGN",
-    "appName" : "Сбербанк(Сбол) | SBOL\n| #money",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/sbol/SBOL_14.11.0.ipa",
-    "appVersion" : "14.11.0 | 421,3 MB",
-    "appDescription" : "Обновлённое приложение СберБанка, которое было добавлено под видом другого приложения. Удаленно с App Store.",
-    "appCateIndex" : 0,
-    "appImage" : "https://ipa-dark.ru/vipad/ico/sbol.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
-  },
-  {  
-    "appCateIndex" : 0,
-    "appDescription" : "Приложение банка Тинькофф последней версии, которое было добавлено в App Store под видом другого приложения - DocStorage.",
-    "appName" : "Тинькофф Банк | Tinkoff\n| #Money",
-    "appVersion" : "6.22 | 466,4 MB",
-    "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff-docstorage.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/docstorage.ipa"
-  },
-  {  
-    "appCateIndex" : 0,
-    "appDescription" : "Приложение банка Тинькофф (старая версия)",
-    "appName" : "Тинькофф Банк | Tinkoff [OLD]\n| #Money",
-    "appVersion" : "6.13.5",
-    "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff-bank.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-bank.ipa"
-  },
-  {  
-    "appCateIndex" : 0,
-    "appDescription" : "Приложение банка Тинькофф Бухгалтерия.",
-    "appName" : "Тинькофф Бухгалтерия | Tinkoff\n| #Money",
-    "appVersion" : "2.15.1",
-    "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff-accounting.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-accounting.ipa"
-  },
-  {  
-    "appCateIndex" : 0,
-    "appDescription" : "Приложение Тинькофф Бизнес, которое было добавлено в App Store под видом другого приложения.",
-    "appName" : "Тинькофф Бизнес | Tinkoff\n| #Money",
-    "appVersion" : "2.84",
-    "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff-business.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-business.ipa" 
-  },
-  {  
-    "appCateIndex" : 0,
-    "appDescription" : "Приложение банка Тинькофф Инвестиции",
-    "appName" : "Тинькофф Инвестиции | Tinkoff\n| #Money",
-    "appVersion" : "6.22 | 466,4 MB",
-    "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff-invest.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-invest.ipa"
-  },
-  {  
-    "appCateIndex" : 0,
-    "appDescription" : "Приложение Тинькофф Мобайл",
-    "appName" : "Тинькофф Мобайл | Tinkoff\n| #Money",
-    "appVersion" : "3.36",
-    "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff-mobile.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-mobile.ipa" 
-  },
-  {  
-    "appCateIndex" : 0,
-    "appDescription" : "Приложение ЮMoney последней версии. Удаленно с App Store.",
-    "appName" : "Yoomoney | ЮMoney | Юмани\n| #Money",
-    "appVersion" : "11.12.0 | 273 MB",
-    "appImage" : "https://ipa-dark.ru/vipad/ico/yoomoney.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/yoomoney/yoomoney.ipa"
-  },
-  {  
-    "appCateIndex" : 0,
-    "appDescription" : "Приложение банка Ozon. Удаленно с App Store.",
-    "appName" : "Ozon Банк\n| #Money",
-    "appVersion" : "16.6.0 | 102,1 MB",
-    "appImage" : "https://ipa-dark.ru/vipad/ico/ozon-bank.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/ozon/ozon-bank.ipa"
-  },
-
-
-  {  
-    "appCateIndex" : 0,
-    "appDescription" : "Официальное приложение ChatGPT. Недоступно в App Store без смены региона",
-    "appName" : "ChatGPT \n| #other",
-    "appVersion" : "1.2023.22 | 15.6 MB",
-    "appImage" : "https://ipa-dark.ru/vipad/ico/chatgpt.png",
-    "appUpdateTime" : "2024-01-04T18:00:00+0300",
-    "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/chatgpt/chatgpt.ipa"
-  }
+        {
+            "appCateIndex": 0,
+            "appDescription": "Редактор фото и видео с большим количеством функций.",
+            "appName": "InShot Pro\n| #Design",
+            "appVersion": "1.67.1 | 157,5 МБ",
+            "appImage": "https://ipa-dark.ru/vipad/ico/inshot.png",
+            "appUpdateTime": "2024-01-04T09:30:00+0300",
+            "appType": "SELF_SIGN",
+            "appPackage": "https://ipa-dark.ru/vipad/ipa/InShot_Pro/InShot_Pro.ipa"
+        },
+        {
+            "appImage": "https://ipa-dark.ru/vipad/ico/Picsart.png",
+            "appUpdateTime": "2024-01-04T09:30:00+0300",
+            "appDescription": "Универсальный редактор фото и видео",
+            "appName": "PicsArt | Gold\n| #Design",
+            "appVersion": "23.6.4 | 223,5 МБ",
+            "appType": "SELF_SIGN",
+            "appPackage": "https://ipa-dark.ru/vipad/ipa/Picsart/Picsart.ipa",
+            "appCateIndex": 0
+        },
+        {
+            "appVersion": "7.38 | 2.0 | 231,5 MB",
+            "appImage": "https://ipa-dark.ru/vipad/ico/vk.png",
+            "appUpdateTime": "2024-01-04T17:00:00+0300",
+            "appType": "SELF_SIGN",
+            "appPackage": "https://ipa-dark.ru/vipad/ipa/vk/reborn2.0.ipa",
+            "appDescription": "Модифицированный клиент ВК\n\n▎ Без рекламы;\n▎ Снятие лимитов на музыку;\n▎ Отключение ограничений возрастного контента;\n▎ Замена вкладок таббара;\n▎ Защита паролем;\n Другие возможности. ",
+            "appCateIndex": 0,
+            "appName": "VK | Reborn\n| #Social"
+        },
+        {
+            "appVersion": "312.0.1",
+            "appImage": "https://ipa-dark.ru/vipad/ico/instagram.png",
+            "appUpdateTime": "2024-01-04T09:30:00+0300",
+            "appType": "SELF_SIGN",
+            "appPackage": "https://ipa-dark.ru/vipad/ipa/InstaRocket/InstaRocket.ipa",
+            "appDescription": "Приложение instagram с дополнительными функциями\n\n▎ Скачивание фото, видео и сторис\n▎ Без рекламы\n▎ Анонимный просмотр сторис\n▎ Отключение отчётов о прочтении смс и скриншотах\n▎ Расширение для открытия ссылок в приложении (активируйте в Safari - Управление расширениями)",
+            "appCateIndex": 0,
+            "appName": "Instagram Rocket PRO\n| #Social"
+        },
+        {
+            "appType": "SELF_SIGN",
+            "appName": "Сбербанк(Сбол) | SBOL\n| #money",
+            "appPackage": "https://ipa-dark.ru/vipad/ipa/sbol/SBOL_14.11.0.ipa",
+            "appVersion": "14.11.0 | 421,3 MB",
+            "appDescription": "Обновлённое приложение СберБанка, которое было добавлено под видом другого приложения. Удаленно с App Store.",
+            "appCateIndex": 0,
+            "appImage": "https://ipa-dark.ru/vipad/ico/sbol.png",
+            "appUpdateTime": "2024-01-04T09:30:00+0300"
+        },
+        {
+            "appCateIndex": 0,
+            "appDescription": "Приложение банка Тинькофф последней версии, которое было добавлено в App Store под видом другого приложения - DocStorage.",
+            "appName": "Тинькофф Банк | Tinkoff\n| #Money",
+            "appVersion": "6.22 | 466,4 MB",
+            "appImage": "https://ipa-dark.ru/vipad/ico/tinkoff-docstorage.png",
+            "appUpdateTime": "2024-01-04T09:30:00+0300",
+            "appType": "SELF_SIGN",
+            "appPackage": "https://ipa-dark.ru/vipad/ipa/tinkoff/docstorage.ipa"
+        },
+        {
+            "appCateIndex": 0,
+            "appDescription": "Приложение банка Тинькофф (старая версия)",
+            "appName": "Тинькофф Банк | Tinkoff [OLD]\n| #Money",
+            "appVersion": "6.13.5",
+            "appImage": "https://ipa-dark.ru/vipad/ico/tinkoff-bank.png",
+            "appUpdateTime": "2024-01-04T09:30:00+0300",
+            "appType": "SELF_SIGN",
+            "appPackage": "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-bank.ipa"
+        },
+        {
+            "appCateIndex": 0,
+            "appDescription": "Приложение банка Тинькофф Бухгалтерия.",
+            "appName": "Тинькофф Бухгалтерия | Tinkoff\n| #Money",
+            "appVersion": "2.15.1",
+            "appImage": "https://ipa-dark.ru/vipad/ico/tinkoff-accounting.png",
+            "appUpdateTime": "2024-01-04T09:30:00+0300",
+            "appType": "SELF_SIGN",
+            "appPackage": "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-accounting.ipa"
+        },
+        {
+            "appCateIndex": 0,
+            "appDescription": "Приложение Тинькофф Бизнес, которое было добавлено в App Store под видом другого приложения.",
+            "appName": "Тинькофф Бизнес | Tinkoff\n| #Money",
+            "appVersion": "2.84",
+            "appImage": "https://ipa-dark.ru/vipad/ico/tinkoff-business.png",
+            "appUpdateTime": "2024-01-04T09:30:00+0300",
+            "appType": "SELF_SIGN",
+            "appPackage": "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-business.ipa"
+        },
+        {
+            "appCateIndex": 0,
+            "appDescription": "Приложение банка Тинькофф Инвестиции",
+            "appName": "Тинькофф Инвестиции | Tinkoff\n| #Money",
+            "appVersion": "6.22 | 466,4 MB",
+            "appImage": "https://ipa-dark.ru/vipad/ico/tinkoff-invest.png",
+            "appUpdateTime": "2024-01-04T09:30:00+0300",
+            "appType": "SELF_SIGN",
+            "appPackage": "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-invest.ipa"
+        },
+        {
+            "appCateIndex": 0,
+            "appDescription": "Приложение Тинькофф Мобайл",
+            "appName": "Тинькофф Мобайл | Tinkoff\n| #Money",
+            "appVersion": "3.36",
+            "appImage": "https://ipa-dark.ru/vipad/ico/tinkoff-mobile.png",
+            "appUpdateTime": "2024-01-04T09:30:00+0300",
+            "appType": "SELF_SIGN",
+            "appPackage": "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-mobile.ipa"
+        },
+        {
+            "appCateIndex": 0,
+            "appDescription": "Приложение ЮMoney последней версии. Удаленно с App Store.",
+            "appName": "Yoomoney | ЮMoney | Юмани\n| #Money",
+            "appVersion": "11.12.0 | 273 MB",
+            "appImage": "https://ipa-dark.ru/vipad/ico/yoomoney.png",
+            "appUpdateTime": "2024-01-04T09:30:00+0300",
+            "appType": "SELF_SIGN",
+            "appPackage": "https://ipa-dark.ru/vipad/ipa/yoomoney/yoomoney.ipa"
+        },
+        {
+            "appCateIndex": 0,
+            "appDescription": "Приложение банка Ozon. Удаленно с App Store.",
+            "appName": "Ozon Банк\n| #Money",
+            "appVersion": "16.6.0 | 102,1 MB",
+            "appImage": "https://ipa-dark.ru/vipad/ico/ozon-bank.png",
+            "appUpdateTime": "2024-01-04T09:30:00+0300",
+            "appType": "SELF_SIGN",
+            "appPackage": "https://ipa-dark.ru/vipad/ipa/ozon/ozon-bank.ipa"
+        },
+        {
+            "appCateIndex": 0,
+            "appDescription": "Официальное приложение ChatGPT. Недоступно в App Store без смены региона",
+            "appName": "ChatGPT \n| #other",
+            "appVersion": "1.2023.22 | 15.6 MB",
+            "appImage": "https://ipa-dark.ru/vipad/ico/chatgpt.png",
+            "appUpdateTime": "2024-01-04T18:00:00+0300",
+            "appType": "SELF_SIGN",
+            "appPackage": "https://ipa-dark.ru/vipad/ipa/chatgpt/chatgpt.ipa"
+        }
     ]
 }
