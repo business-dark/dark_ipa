@@ -33,26 +33,34 @@
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/InShot_Pro/InShot_Pro.ipa"
   },
   {
+    "appImage" : "https://ipa-dark.ru/vipad/ico/Picsart.png",
+    "appUpdateTime" : "2024-01-04T09:30:00+0300",
+    "appDescription" : "Универсальный редактор фото и видео",
+    "appName" : "PicsArt | Gold                                                                                                                                    | #Design",
+    "appVersion" : "23.6.4",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/Picsart/Picsart.ipa",
+    "appCateIndex" : 0
+  },
+  {
+    "appVersion" : "7.38 | 2.0 | 101 MB",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/vk.png",
+    "appUpdateTime" : "2024-01-04T09:30:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/InstaRocket/InstaRocket.ipa",
+    "appDescription" : "Модифицированный клиент ВК\n▎ Без рекламы;\n▎ Снятие лимитов на музыку;\n▎ Отключение ограничений возрастного контента;\n▎ Замена вкладок таббара;\n▎ Защита паролем;\n Другие возможности. ",
+    "appCateIndex" : 0,
+    "appName" : "VK | Reborn                                                                                                                                      | #Social",
+  },
+  {
     "appVersion" : "312.0.1",
     "appImage" : "https://ipa-dark.ru/vipad/ico/instagram.png",
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
     "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/InstaRocket/InstaRocket.ipa",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/vk/reborn2.0.ipa",
     "appDescription" : "Приложение instagram с дополнительными функциями\n▎ Скачивание фото, видео и сторис\n▎ Без рекламы\n▎ Анонимный просмотр сторис\n▎ Отключение отчётов о прочтении смс и скриншотах\n▎ Расширение для открытия ссылок в приложении (активируйте в Safari - Управление расширениями)",
     "appCateIndex" : 0,
-    "apphashtag" : "#money",
     "appName" : "Instagram Rocket PRO                                                                                                                            | #Social",
-  },
-  {
-    "appImage" : "https://ipa-dark.ru/vipad/ico/Picsart.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
-    "appDescription" : "Универсальный редактор фото и видео",
-    "appName" : "PicsArt | Gold                                                                                                                                | #Design",
-    "appVersion" : "23.6.4",
-    "appType" : "SELF_SIGN",
-    "apphashtag" : "money",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/Picsart/Picsart.ipa",
-    "appCateIndex" : 0
   },
   {
     "appType" : "SELF_SIGN",
@@ -63,7 +71,8 @@
     "appCateIndex" : 0,
     "appImage" : "https://ipa-dark.ru/vipad/ico/sbol.png",
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
-  },  {
+  },
+  {  
     "appCateIndex" : 11,
     "appDescription" : "Приложение банка Тинькофф последней версии, которое было добавлено в App Store под видом другого приложения - DocStorage.",
     "appName" : "Тинькофф Банк | Tinkoff                                                                                                                     | #Money",
