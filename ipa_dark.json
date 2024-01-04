@@ -67,7 +67,7 @@
     "appName" : "Сбербанк(Сбол) | SBOL\n| #money",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/sbol/SBOL_14.11.0.ipa",
     "appVersion" : "14.11.0 | 421,3 MB",
-    "appDescription" : "Обновлённое приложение СберБанка, которое было добавлено под видом другого приложения. Удаленно с App Store.",
+    "appDescription" : "Обновлённое приложение СберБанка, которое было добавлено под видом другого приложения. Удалено с App Store.",
     "appCateIndex" : 0,
     "appImage" : "https://ipa-dark.ru/vipad/ico/sbol.png",
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
@@ -134,7 +134,7 @@
   },
   {  
     "appCateIndex" : 0,
-    "appDescription" : "Приложение ЮMoney последней версии. Удаленно с App Store.",
+    "appDescription" : "Приложение ЮMoney последней версии. Удалено с App Store.",
     "appName" : "Yoomoney | ЮMoney | Юмани\n| #Money",
     "appVersion" : "11.12.0 | 273 MB",
     "appImage" : "https://ipa-dark.ru/vipad/ico/yoomoney.png",
@@ -144,7 +144,7 @@
   },
   {  
     "appCateIndex" : 0,
-    "appDescription" : "Приложение банка Ozon. Удаленно с App Store.",
+    "appDescription" : "Приложение банка Ozon. Удалено с App Store.",
     "appName" : "Ozon Банк\n| #Money",
     "appVersion" : "16.6.0 | 102,1 MB",
     "appImage" : "https://ipa-dark.ru/vipad/ico/ozon-bank.png",
@@ -154,13 +154,23 @@
   },
   {  
     "appCateIndex" : 0,
-    "appDescription" : "Приложение банка РНКБ. Удаленно с App Store.",
+    "appDescription" : "Приложение банка РНКБ. Удалено с App Store.",
     "appName" : "РНКБ | Цифровой Офис\n| #Money",
     "appVersion" : "1.69.0 | 148,4 MB",
     "appImage" : "https://ipa-dark.ru/vipad/ico/rncb.png",
     "appUpdateTime" : "2024-01-04T19:20:00+0300",
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/rncb/rncb.ipa"
+  },
+  {  
+    "appCateIndex" : 0,
+    "appDescription" : "Приложение банка Совкомбанк Халва. Удалено с App Store",
+    "appName" : "Совкомбанк | Халва",
+    "appVersion" : "6.5.0 | 148,4 MB",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/sovcombank_halva.png",
+    "appUpdateTime" : "2024-01-04T19:20:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/halva/Sovcombank_halva.ipa"
   },
 
 
