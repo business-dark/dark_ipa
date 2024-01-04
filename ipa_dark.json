@@ -106,9 +106,9 @@
 
   {  
     "appCateIndex" : 0,
-    "appDescription" : "Приложение банка Ozon. Удаленно с App Store.",
-    "appName" : "ChatGPT \n\n| #other",
-    "appVersion" : "16.6.0 | 90.5 MB",
+    "appDescription" : "Официальное приложение ChatGPT. Недоступно в App Store без смены региона",
+    "appName" : "ChatGPT \n| #other",
+    "appVersion" : "1.2023.22 | 15.6 MB",
     "appImage" : "https://ipa-dark.ru/vipad/ipa/chatgpt.png",
     "appUpdateTime" : "2024-01-04T18:00:00+0300",
     "appType" : "SELF_SIGN",
