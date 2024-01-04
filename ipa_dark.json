@@ -85,20 +85,20 @@
   {  
     "appCateIndex" : 0,
     "appDescription" : "Приложение банка Тинькофф (старая версия)",
-    "appName" : "Тинькофф Банк | Tinkoff [OLD]\n| #Money",
-    "appVersion" : "6.13.5",
+    "appName" : "Тинькофф Банк\n| #Money",
+    "appVersion" : "6.13.5 | 399,5 MB",
     "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff-bank.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
+    "appUpdateTime" : "2024-01-04T19:20:00+0300",
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-bank.ipa"
   },
   {  
     "appCateIndex" : 0,
     "appDescription" : "Приложение банка Тинькофф Бухгалтерия.",
-    "appName" : "Тинькофф Бухгалтерия | Tinkoff\n| #Money",
-    "appVersion" : "2.15.1",
+    "appName" : "Тинькофф Бухгалтерия\n| #Money",
+    "appVersion" : "2.15.1 | 219,7 MB",
     "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff-accounting.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
+    "appUpdateTime" : "2024-01-04T19:20:00+0300",
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-accounting.ipa"
   },
@@ -106,29 +106,29 @@
     "appCateIndex" : 0,
     "appDescription" : "Приложение Тинькофф Бизнес, которое было добавлено в App Store под видом другого приложения.",
     "appName" : "Тинькофф Бизнес | Tinkoff\n| #Money",
-    "appVersion" : "2.84",
+    "appVersion" : "2.84 | 436,9 MB",
     "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff-business.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
+    "appUpdateTime" : "2024-01-04T19:20:00+0300",
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-business.ipa" 
   },
   {  
     "appCateIndex" : 0,
     "appDescription" : "Приложение банка Тинькофф Инвестиции",
-    "appName" : "Тинькофф Инвестиции | Tinkoff\n| #Money",
-    "appVersion" : "6.22 | 466,4 MB",
+    "appName" : "Тинькофф Инвестиции\n| #Money",
+    "appVersion" : "6.22 | 376,2 MB",
     "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff-invest.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
+    "appUpdateTime" : "2024-01-04T19:20:00+0300",
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-invest.ipa"
   },
   {  
     "appCateIndex" : 0,
     "appDescription" : "Приложение Тинькофф Мобайл",
-    "appName" : "Тинькофф Мобайл | Tinkoff\n| #Money",
-    "appVersion" : "3.36",
+    "appName" : "Тинькофф Мобайл\n| #Money",
+    "appVersion" : "3.36 | 381,7 MB",
     "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff-mobile.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
+    "appUpdateTime" : "2024-01-04T19:20:00+0300",
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-mobile.ipa" 
   },
@@ -151,6 +151,16 @@
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/ozon/ozon-bank.ipa"
+  },
+  {  
+    "appCateIndex" : 0,
+    "appDescription" : "Приложение банка РНКБ. Удаленно с App Store.",
+    "appName" : "РНКБ | Цифровой Офис\n| #Money",
+    "appVersion" : "1.69.0 | ? MB",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/rncb.png",
+    "appUpdateTime" : "2024-01-04T19:20:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/rncb/rncb.ipa"
   },
 
 
