@@ -130,7 +130,7 @@
     "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff-mobile.png",
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
     "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-mobile.ipa" #
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/tinkoff-mobile.ipa" 
   },
   {  
     "appCateIndex" : 0,
