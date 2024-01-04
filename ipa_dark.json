@@ -95,12 +95,24 @@
   {  
     "appCateIndex" : 0,
     "appDescription" : "Приложение банка Ozon. Удаленно с App Store.",
-    "appName" : "Ozon Банк\n| #Money",
+    "appName" : "Ozon Банк                                                                                                                                    | #Money",
     "appVersion" : "16.6.0 | 90.5 MB",
     "appImage" : "https://ipa-dark.ru/vipad/ico/ozon-bank.png",
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/ozon/ozon-bank.ipa"
+  },
+
+
+  {  
+    "appCateIndex" : 0,
+    "appDescription" : "Приложение банка Ozon. Удаленно с App Store.",
+    "appName" : "ChatGPT \n\n| #other",
+    "appVersion" : "16.6.0 | 90.5 MB",
+    "appImage" : "https://ipa-dark.ru/vipad/ipa/chatgpt.png",
+    "appUpdateTime" : "2024-01-04T18:00:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/chatgpt/chatgpt.ipa"
   }
     ]
 }
