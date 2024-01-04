@@ -45,7 +45,7 @@
   {
     "appVersion" : "7.38 | 2.0 | 101 MB",
     "appImage" : "https://ipa-dark.ru/vipad/ico/vk.png",
-    "appUpdateTime" : "2024-01-04T09:30:00+0300",
+    "appUpdateTime" : "2024-01-04T17:00:00+0300",
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/InstaRocket/InstaRocket.ipa",
     "appDescription" : "Модифицированный клиент ВК\n\n▎ Без рекламы;\n▎ Снятие лимитов на музыку;\n▎ Отключение ограничений возрастного контента;\n▎ Замена вкладок таббара;\n▎ Защита паролем;\n Другие возможности. ",
@@ -73,14 +73,34 @@
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
   },
   {  
-    "appCateIndex" : 11,
+    "appCateIndex" : 0,
     "appDescription" : "Приложение банка Тинькофф последней версии, которое было добавлено в App Store под видом другого приложения - DocStorage.",
     "appName" : "Тинькофф Банк | Tinkoff                                                                                                                     | #Money",
     "appVersion" : "6.22",
     "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff.png",
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
     "appType" : "SELF_SIGN",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/Tinkoff/docstorage.ipa"
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/docstorage.ipa"
+  },
+  {  
+    "appCateIndex" : 0,
+    "appDescription" : "Приложение юmoney последней версии. Удаленно с App Store.",
+    "appName" : "Yoomoney | ЮMoney | Юмани                                                                                                                     | #Money",
+    "appVersion" : "11.12.0 | 100 MB",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/yoomoney.png",
+    "appUpdateTime" : "2024-01-04T09:30:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/yoomoney/yoomoney.ipa"
+  },
+  {  
+    "appCateIndex" : 0,
+    "appDescription" : "Приложение банка Ozon. Удаленно с App Store.",
+    "appName" : "Ozon Банк                                                                                                                                     | #Money",
+    "appVersion" : "16.6.0 | 90.5 MB",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/ozon-bank.png",
+    "appUpdateTime" : "2024-01-04T09:30:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/ozon/ozon-bank.ipa"
   }
     ]
 }
