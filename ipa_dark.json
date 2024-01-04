@@ -25,7 +25,7 @@
   {
     "appCateIndex" : 0,
     "appDescription" : "Редактор фото и видео с большим количеством функций.",
-    "appName" : "InShot Pro",
+    "appName" : "InShot Pro                                                                                                                                       | #Design",
     "appVersion" : "1.67.1",
     "appImage" : "https://ipa-dark.ru/vipad/ico/inshot.png",
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
@@ -41,13 +41,13 @@
     "appDescription" : "Приложение instagram с дополнительными функциями\n▎ Скачивание фото, видео и сторис\n▎ Без рекламы\n▎ Анонимный просмотр сторис\n▎ Отключение отчётов о прочтении смс и скриншотах\n▎ Расширение для открытия ссылок в приложении (активируйте в Safari - Управление расширениями)",
     "appCateIndex" : 0,
     "apphashtag" : "#money",
-    "appName" : "Instagram Rocket PRO"
+    "appName" : "Instagram Rocket PRO                                                                                                                            | #Social",
   },
   {
     "appImage" : "https://ipa-dark.ru/vipad/ico/Picsart.png",
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
     "appDescription" : "Универсальный редактор фото и видео",
-    "appName" : "PicsArt | Gold",
+    "appName" : "PicsArt | Gold                                                                                                                                | #Design",
     "appVersion" : "23.6.4",
     "appType" : "SELF_SIGN",
     "apphashtag" : "money",
@@ -56,7 +56,7 @@
   },
   {
     "appType" : "SELF_SIGN",
-    "appName" : "Сбербанк(Сбол) | SBOL                                                                                                                 | #money",
+    "appName" : "Сбербанк(Сбол) | SBOL                                                                                                                         | #money",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/sbol/SBOL_14.11.0.ipa",
     "appVersion" : "14.11.0",
     "appDescription" : "Обновлённое приложение СберБанка, которое было добавлено под видом другого приложения. Удаленно с App Store.",
@@ -66,7 +66,7 @@
   },  {
     "appCateIndex" : 11,
     "appDescription" : "Приложение банка Тинькофф последней версии, которое было добавлено в App Store под видом другого приложения - DocStorage.",
-    "appName" : "Тинькофф Банк | Tinkoff                                                                                                             | #money",
+    "appName" : "Тинькофф Банк | Tinkoff                                                                                                                     | #Money",
     "appVersion" : "6.22",
     "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff.png",
     "appUpdateTime" : "2024-01-04T09:30:00+0300",
