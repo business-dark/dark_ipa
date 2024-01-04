@@ -43,6 +43,18 @@
     "appCateIndex" : 0
   },
   {
+    "appImage" : "https://ipa-dark.ru/vipad/ico/Motionleap.png",
+    "appUpdateTime" : "2024-01-04T09:30:00+0300",
+    "appDescription" : "Добавьте анимацию к любой детали снимка - или к нескольким сразу - чтобы привлечь взгляд, заворожить ваших зрителей, рассказать историю и создать атмосферу волшебства.",
+    "appName" : "Motionleap | Pro \n| #Design",
+    "appVersion" : "1.9.21 | 211 МБ",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/Motionleap/Motionleap.ipa",
+    "appCateIndex" : 0
+  },
+
+        
+  {
     "appVersion" : "7.38 | 2.0 | 231,5 MB",
     "appImage" : "https://ipa-dark.ru/vipad/ico/vk.png",
     "appUpdateTime" : "2024-01-04T17:00:00+0300",
