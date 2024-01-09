@@ -53,6 +53,17 @@
     "appCateIndex" : 0
   },
 
+{
+    "appVersion" : "8.8.96 | 146,3 MB",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/spotify.png",
+    "appUpdateTime" : "2024-01-09T23:50:00+0300",
+    "appType" : "SELF_SIGN", 
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/Spotify/Spotify-8.8.96.ipa",
+    "appDescription" : "Стриминговый сервис лицензионной музыки в высоком качестве с частично взломанной премиум подпиской.\n\n▎отсутствие рекламы\n▎высокоe качествo;\n▎сняты все ограничения;\n\n▎Если premium у вас не работает, создайте новую учетную запись, и большинство функций premium должны работать. \n\n⚠️ Загрузка музыки в кэш недоступна.",
+    "appCateIndex" : 0,
+    "appName" : "Spotify | Premium\n| #Music",
+  },       
+        
   {
     "appVersion" : "7.38 | 2.0 | 231,5 MB",
     "appImage" : "https://ipa-dark.ru/vipad/ico/vk.png",
