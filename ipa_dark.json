@@ -53,7 +53,6 @@
     "appCateIndex" : 0
   },
 
-        
   {
     "appVersion" : "7.38 | 2.0 | 231,5 MB",
     "appImage" : "https://ipa-dark.ru/vipad/ico/vk.png",
@@ -63,6 +62,16 @@
     "appDescription" : "Модифицированный клиент ВК\n\n▎ Без рекламы;\n▎ Снятие лимитов на музыку;\n▎ Отключение ограничений возрастного контента;\n▎ Замена вкладок таббара;\n▎ Защита паролем;\n▎ Другие возможности. ",
     "appCateIndex" : 0,
     "appName" : "VK | Reborn\n| #Social",
+  },        
+  {
+    "appVersion" : "18.49.3 | 3.0.1 | 231,5 MB",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/youtube.png",
+    "appUpdateTime" : "2024-01-09T20:25:00+0300",
+    "appType" : "SELF_SIGN", 
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/youtube/YouTube_uYou.ipa",
+    "appDescription" : "uYou - лучший модифицированный клиент для YouTube с огромными возможностями. \n\n▎ доп. настройки\n▎ ▎жесты\n▎ без рекламы\n▎ загрузка видео в кеш\n▎ iSponsorBlock. ",
+    "appCateIndex" : 0,
+    "appName" : "YouTube | uYou \n| #Social",
   },
   {
     "appVersion" : "8.27 | 2.6 | 294,8 MB",
