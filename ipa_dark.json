@@ -105,6 +105,16 @@
     "appName" : "Instagram Rocket PRO\n| #Social",
   },
   {
+    "appVersion" : "312.0.1",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/tiktok.png",
+    "appUpdateTime" : "2024-01-04T09:30:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tiktok/TikTok_Lrd_33.0.0%5Btg%40ipa_dark%5D.ipa",
+    "appDescription" : "Модифицированное популярное приложение для создания небольших забавных видео с возможностью делиться своим творчеством с друзьями по всему миру",
+    "appCateIndex" : 0,
+    "appName" : "TikTok | LRD\n| #Social #Video",
+  },
+  {
     "appType" : "SELF_SIGN",
     "appName" : "Сбербанк(Сбол) | SBOL\n| #money",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/sbol/SBOL_14.11.0.ipa",
