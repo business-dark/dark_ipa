@@ -206,6 +206,16 @@
   },
   {  
     "appCateIndex" : 0,
+    "appDescription" : "Обновлённое приложение Т-Банка | Тинькофф .\n\n▎Удалено из AppStore.\n▎Версия за май 2024 года.",
+    "appName" : "Тинькофф Банк | Tinkoff\n| #Money",
+    "appVersion" : "1.35.1 | 466,4 MB",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/tinkoff.png",
+    "appUpdateTime" : "2024-07-16T19:00:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tinkoff/T-Start-tinkoff-1.35.1%5B%40ipa_dark%5D.ipa"
+  },
+  {  
+    "appCateIndex" : 0,
     "appDescription" : "Приложение банка Тинькофф (старая версия)",
     "appName" : "Тинькофф Банк\n| #Money",
     "appVersion" : "6.13.5 | 399,5 MB",
