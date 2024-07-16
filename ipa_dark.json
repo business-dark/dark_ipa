@@ -53,7 +53,7 @@
     "appCateIndex" : 0
   },
 
-{
+  {
     "appVersion" : "8.8.96 | 146,3 MB",
     "appImage" : "https://ipa-dark.ru/vipad/ico/spotify.png",
     "appUpdateTime" : "2024-01-09T23:50:00+0300",
@@ -113,6 +113,46 @@
     "appDescription" : "Яндекс Музыка с полным взломом на подписку.",
     "appCateIndex" : 0,
     "appName" : "Яндекс Музыка | Plus\n|#Misic",
+  },
+  {
+    "appVersion" : "33.7.0 | 313 MB",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/tiktok.png",
+    "appUpdateTime" : "2024-02-04T4:15:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tiktok/TikTok%20LRD%20%5Bv33.7.0%5D%28tg%40ipa_dark%29.ipa",
+    "appDescription" : "Модифицированное популярное приложение для создания небольших забавных видео с возможностью делиться своим творчеством с друзьями по всему миру",
+    "appCateIndex" : 0,
+    "appName" : "TikTok | LRD\n| #Social #Video",
+  },
+  {
+    "appVersion" : "33.7.0 | 388,2 MB",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/tiktok.png",
+    "appUpdateTime" : "2024-02-04T4:15:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tiktok/TikTok%20BH%20%5Bv33.7.0%5D%28tg%40ipa_dark%29.ipa",
+    "appDescription" : "Модифицированное популярное приложение для создания небольших забавных видео с возможностью делиться своим творчеством с друзьями по всему миру",
+    "appCateIndex" : 0,
+    "appName" : "TikTok | BH\n| #Social #Video",
+  },
+  {
+    "appVersion" : "33.7.0 | 387,5 MB",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/tiktok.png",
+    "appUpdateTime" : "2024-02-04T4:15:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tiktok/TikTok%20Dark%20%5Bv33.7.0%5D%28tg%40ipa_dark%29.ipa",
+    "appDescription" : "Модифицированное популярное приложение для создания небольших забавных видео с возможностью делиться своим творчеством с друзьями по всему миру",
+    "appCateIndex" : 0,
+    "appName" : "TikTok | Dark\n| #Social #Video",
+  },
+  {
+    "appVersion" : "33.7.0 | 390,5 MB1",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/tiktok.png",
+    "appUpdateTime" : "2024-02-04T4:15:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/tiktok/TikTok%20LRD%20%5Bv33.7.0%5D%28tg%40ipa_dark%29.ipa",
+    "appDescription" : "Модифицированное популярное приложение для создания небольших забавных видео с возможностью делиться своим творчеством с друзьями по всему миру",
+    "appCateIndex" : 0,
+    "appName" : "TikTok | LRD Lazy\n| #Social #Video",
   },
   {
     "appVersion" : "33.0.0 | 313 MB",
