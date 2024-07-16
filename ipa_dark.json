@@ -166,8 +166,18 @@
   },
   {
     "appType" : "SELF_SIGN",
+    "appName" : "Сбербанк | Умный Онлайн\n| #money",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/sber/SberbankOnline%20%5Bv15.10.0%5D%28tg%40ipa_dark%29.ipa",
+    "appVersion" : "15.10.0 | 421,3 MB",
+    "appDescription" : "Обновлённое приложение Сбербанка.\n\n▎Удалено из AppStore.\n▎Версия за июнь 2024 года",
+    "appCateIndex" : 0,
+    "appImage" : "https://ipa-dark.ru/vipad/ico/sbol.png",
+    "appUpdateTime" : "2024-07-16T11:24:14.745Z"
+  },
+  {
+    "appType" : "SELF_SIGN",
     "appName" : "Сбербанк(Сбол) | SBOL\n| #money",
-    "appPackage" : "https://ipa-dark.ru/vipad/ipa/sbol/SBOL_14.11.0.ipa",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/sber/SBOL_14.11.0.ipa",
     "appVersion" : "14.11.0 | 421,3 MB",
     "appDescription" : "Обновлённое приложение СберБанка, которое было добавлено под видом другого приложения. Удалено с App Store.",
     "appCateIndex" : 0,
