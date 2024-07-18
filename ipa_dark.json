@@ -341,6 +341,27 @@
     "appType" : "SELF_SIGN",
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/halva/Sovcombank_halva.ipa"
   },
+  {  
+    "appCateIndex" : 0,
+    "appDescription" : " Приложение VPN с взломанной подпиской",
+    "appName" : "Free VPN | PRO\n| #Money",
+    "appVersion" : "6.13.5 | 399,5 MB",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/free_vpn.png",
+    "appUpdateTime" : "2024-07-18T20:35:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/vpn/Free%20VPN.ipa"
+  },
+
+  {  
+    "appCateIndex" : 0,
+    "appDescription" : " Приложение VPN с взломанной подпиской",
+    "appName" : "Opus VPN | PRO\n| #Money",
+    "appVersion" : "6.13.5 | 399,5 MB",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/opus_vpn.png",
+    "appUpdateTime" : "2024-07-18T20:35:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/vpn/Opus%20VPN%20%5Bv1.8.1%5D%28tg%40ipa_dark%29.ipa"
+  },
 
   {  
     "appCateIndex" : 0,
