@@ -113,6 +113,25 @@
     "appName" : "Instagram Rocket PRO\n| #Social"
   },
   {
+    "appVersion" : "339.0.3 | 262,3 MB",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/instagram.png",
+    "appUpdateTime" : "2024-07-18T15:00:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/instagram/BHInstagram%20%5Bv339.0.3%5D%28tg%40ipa_dark%29.ipa",
+    "appDescription" : "Приложение instagram с дополнительными функциями\n\n▎ Скачивание фото, видео и сторис\n▎ Без рекламы\n▎ Анонимный просмотр сторис\n▎ Отключение отчётов о прочтении смс и скриншотах\n▎ Расширение для открытия ссылок в приложении (активируйте в Safari - Управление расширениями)",
+    "appCateIndex" : 0,
+    "appName" : "BHInstagram\n| #Social"
+  },
+  {
+    "appVersion" : "339.0.3 | 262,3 MB",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/instagram.png",
+    "appUpdateTime" : "2024-07-18T15:00:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/instagram/Instagram%20Rocket%20%5Bv339.0.3%5D%28tg%40ipa_dark%29.ipa",
+    "appDescription" : "Приложение instagram с дополнительными функциями\n\n▎Сохрание любого фото и  видео\n▎Просматривать сообщения в директе, не уведомляя отправителя.\n▎Скачивать фото и видео из сторис\n▎Просматривать сторис, не помечая их как просмотренные.\n▎ℹ️Как активировать: \n 1. Зайдите в настройки Rocket.\n 2. Нажмите на (upgrade pro) .\n 3. Нажмите на (restore purchase).",
+    "appName" : "Instagram Rocket PRO\n| #Social"
+  },
+  {
     "appVersion" : "652 | 136,1 MB",
     "appImage" : "https://ipa-dark.ru/vipad/ico/yandex-music.jpg",
     "appUpdateTime" : "2024-02-04T4:15:00+0300",
