@@ -43,6 +43,16 @@
     "appPackage" : "https://ipa-dark.ru/vipad/ipa/Photoroom/Photoroom%20%5Bv6.0.5%5D%28tg%40ipa_dark%29.ipa"
   },
   {
+    "appCateIndex" : 0,
+    "appDescription" : "Профессиональный инструмент для ретуши фото и видео.",
+    "appName" : "Facetune | Pro\n| #Design",
+    "appVersion" : "3.60.1 | 456,8 МБ",
+    "appImage" : "https://ipa-dark.ru/vipad/ico/Facetune.png",
+    "appUpdateTime" : "2024-07-21T10:05:00+0300",
+    "appType" : "SELF_SIGN",
+    "appPackage" : "https://ipa-dark.ru/vipad/ipa/Facetune/Facetune%20%5Bv3.60.1%5D%28tg%40ipa_dark%29.ipa"
+  },
+  {
     "appImage" : "https://ipa-dark.ru/vipad/ico/Picsart.png",
     "appUpdateTime" : "2024-07-21T7:30:00+0300",
     "appDescription" : "Универсальный редактор фото и видео",
